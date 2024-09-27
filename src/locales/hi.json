@@ -1,0 +1,20 @@
+{
+  "welcome": "फूड ऑर्डरिंग चैटबॉट में आपका स्वागत है!",
+  "typePlaceholder": "अपना संदेश यहां टाइप करें...",
+  "send": "भेजें",
+  "recommendedMenu": "अनुशंसित मेनू",
+  "category": "श्रेणी",
+  "price": "कीमत",
+  "addToOrder": "ऑर्डर में जोड़ें",
+  "yourOrder": "आपका ऑर्डर",
+  "total": "कुल",
+  "confirmOrder": "ऑर्डर की पुष्टि करें",
+  "cancel": "रद्द करें",
+  "confirmYourOrder": "अपने ऑर्डर की पुष्टि करें",
+  "noRecommendedItems": "वर्तमान में कोई अनुशंसित आइटम नहीं हैं।",
+  "prepTime": "तैयारी का समय",
+  "vegetarian": "शाकाहारी",
+  "nonVegetarian": "मांसाहारी",
+  "offer": "ऑफ़र",
+  "off": "ऑफ"
+}

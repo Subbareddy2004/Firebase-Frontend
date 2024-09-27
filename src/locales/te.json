@@ -1,0 +1,20 @@
+{
+  "welcome": "ఫుడ్ ఆర్డరింగ్ చాట్‌బాట్‌కి స్వాగతం!",
+  "typePlaceholder": "మీ సందేశాన్ని ఇక్కడ టైప్ చేయండి...",
+  "send": "పంపండి",
+  "recommendedMenu": "సిఫారసు చేసిన మెను",
+  "category": "వర్గం",
+  "price": "ధర",
+  "addToOrder": "ఆర్డర్‌లో చేర్చు",
+  "yourOrder": "మీ ఆర్డర్",
+  "total": "మొత్తం",
+  "confirmOrder": "ఆర్డర్‌ను నిర్ధారించండి",
+  "cancel": "రద్దు చేయండి",
+  "confirmYourOrder": "మీ ఆర్డర్‌ను నిర్ధారించండి",
+  "noRecommendedItems": "ప్రస్తుతానికి సిఫారసు చేసిన అంశాలు లేవు.",
+  "prepTime": "తయారీ సమయం",
+  "vegetarian": "శాకాహారి",
+  "nonVegetarian": "మాంసాహారి",
+  "offer": "ఆఫర్",
+  "off": "ఆఫ్"
+}

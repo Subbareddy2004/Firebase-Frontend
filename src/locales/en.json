@@ -1,0 +1,20 @@
+{
+  "welcome": "Welcome to the Food Ordering Chatbot!",
+  "typePlaceholder": "Type your message here...",
+  "send": "Send",
+  "recommendedMenu": "Recommended Menu",
+  "category": "Category",
+  "price": "Price",
+  "addToOrder": "Add to Order",
+  "yourOrder": "Your Order",
+  "total": "Total",
+  "confirmOrder": "Confirm Order",
+  "cancel": "Cancel",
+  "confirmYourOrder": "Confirm Your Order",
+  "noRecommendedItems": "No recommended items at the moment.",
+  "prepTime": "Preparation Time",
+  "vegetarian": "Vegetarian",
+  "nonVegetarian": "Non-Vegetarian",
+  "offer": "Offer",
+  "off": "off"
+}
