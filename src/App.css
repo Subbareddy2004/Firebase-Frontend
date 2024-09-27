@@ -125,7 +125,7 @@ h1, h2 {
 .menu-item-content {
     display: flex;
     padding: 16px;
-    margin-bottom: 25px;
+    margin-bottom: 100px;
 }
 
 .menu-item-info {
