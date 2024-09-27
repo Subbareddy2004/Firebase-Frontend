@@ -7,7 +7,7 @@ import { db } from '../firebase';
 import './App.css';
 import './i18n';
 
-const API_URL = process.env.REACT_APP_API_URL;
+const API_URL = process.env.REACT_APP_API_URL || 'https://firebase-backend-mqzawuvey-tirumalareddysais-projects.vercel.app';
 
 const App = () => {
     const { t, i18n } = useTranslation();
