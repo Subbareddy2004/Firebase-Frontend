@@ -7,7 +7,7 @@ import { db } from '../firebase';
 import './App.css';
 import './i18n';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+const API_URL = process.env.REACT_APP_API_URL;
 
 const App = () => {
     const { t, i18n } = useTranslation();
